@@ -1,4 +1,22 @@
 """R-values from https://link.springer.com/article/10.1007/s10044-016-0583-6#rightslink"""
+
+# This file is part of me-types-mapper.
+#
+#
+# Copyright © 2021 Blue Brain Project/EPFL
+#
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the APACHE-2 License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.apache.org/licenses/LICENSE-2.0>.
+
 import numpy as np
 from me_types_mapper.mapper.coclustering_functions import unique_elements, count_elements
 
