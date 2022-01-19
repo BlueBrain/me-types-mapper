@@ -13,9 +13,7 @@ run `pip install git+https://github.com/BlueBrain/me-types-mapper.git`
 
 ## Examples:
 
-`from me_types_mapper.mapper.coclustering_functions import cross_predictions_v2`
-`alpha_opt, map_, c1, c2, dict_cluster_label, cluster_ref, fig_alpha, fig_d_opt = cross_predictions_v2(data_1, data_2, 
-msk_ephys_, msk_morpho_, lbls)`
+The jupyter notebook in the `Examples` directory provides a first overview on how to use _me-types-mapper_.
 
 ## Citation
 

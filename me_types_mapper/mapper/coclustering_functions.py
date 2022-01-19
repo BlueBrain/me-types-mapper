@@ -452,7 +452,7 @@ def mapping(labels1, labels2, cluster_ref):
 
 
 def cross_predictions_v2(data_1, data_2, msk_ephys_, msk_morpho_, lbls,
-                      alpha_list_ = np.arange(.5,1.5,.05), d_opt=None, hca_method='ward'):
+                      alpha_list_ = np.arange(.1,1.,.1), d_opt=None, hca_method='ward'):
     
     msk_1 = [True]*len(data_1) + [False]*len(data_2)
     msk_2 = [False]*len(data_1) + [True]*len(data_2)
