@@ -2,7 +2,7 @@
 # This file is part of me-types-mapper.
 #
 #
-# Copyright © 2021 Blue Brain Project/EPFL
+# Copyright © 2021-2022 Blue Brain Project/EPFL
 #
 #
 # This program is free software: you can redistribute it and/or modify
