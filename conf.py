@@ -26,16 +26,3 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-
-# Required
-version: 2
-
-sphinx:
-  configuration: ./conf.py
-  fail_on_warning: true
-
-python:
-  install:
-    - method: pip
-      path: .
-    - requirements: requirements_docs.txt
