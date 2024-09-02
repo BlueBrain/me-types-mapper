@@ -5,3 +5,6 @@ scipy>=1.5.4
 MorphIO>=3.3.2
 networkx>=2.6.3
 neurom>=3.0.1
+sphinx>=2.0.0
+sphinx-bluebrain-theme
+sphinx-autorun
