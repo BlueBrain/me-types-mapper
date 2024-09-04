@@ -1,17 +1,15 @@
-.. me-types-mapper documentation master file, created by
-   sphinx-quickstart on Mon Sep  2 16:57:04 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 me-types-mapper documentation
 =============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+.. automodule:: me_types_mapper
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
+Indices and tables
+==================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
